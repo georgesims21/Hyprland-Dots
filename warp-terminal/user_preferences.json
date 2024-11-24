@@ -1,0 +1,22 @@
+{
+  "prefs": {
+    "Theme": "\"GruvboxDark\"",
+    "SameLinePromptBlockState": "\"DoNotShow\"",
+    "HasAutoOpenedWelcomeFolder": "true",
+    "FontSize": "15.0",
+    "AIRequestLimitInfo": "{\"limit\":100,\"num_requests_used_since_refresh\":4,\"next_refresh_time\":\"2024-12-11T14:38:12.328508Z\",\"is_unlimited\":false}",
+    "ExperimentId": "0c29dfb8-22fc-4c75-9bd2-8ef50d10a510",
+    "NotebookFontSize": "14.0",
+    "ReceivedReferralTheme": "\"Inactive\"",
+    "FontName": "\"JetBrains Mono\"",
+    "ChangelogVersions": "{\"v0.2024.10.23.14.49.stable_00\":true,\"v0.2024.11.12.08.02.stable_02\":true}",
+    "CrashReportingEnabled": "false",
+    "AgentModeOnboardingBlockShown": "true",
+    "AutosuggestionAcceptedCount": "2",
+    "AliasExpansionBannerSeen": "true",
+    "EmacsBindingsBannerState": "\"Dismissed\"",
+    "TelemetryEnabled": "false",
+    "WelcomeTipsFeaturesUsed": "[{\"Action\":\"ThemePicker\"},{\"Hint\":\"CreateBlock\"},{\"Hint\":\"BlockSelect\"}]",
+    "AIAssistantRequestLimitInfo": "{\"limit\":100,\"num_requests_used_since_refresh\":2,\"next_refresh_time\":\"2024-11-05T14:24:45.475085Z\",\"is_unlimited\":false}"
+  }
+}
